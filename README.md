@@ -11,6 +11,13 @@ The CFO of Rossmann Drug Stores requested a sales predction for each store for t
 - The days when stores were closed were removed from the analysis.
 - Only stores with sales values bigger than 0 were considered.
 - For stores which did not have Competition Distance information, it was considered that the distance should be the longest distance observed in the data set.
+# Data Description
+You are provided with historical sales data for 1,115 Rossmann stores. The task is to forecast the "Sales" column for the test set. Note that some stores in the dataset were temporarily closed for refurbishment.
+# Files
+- train.csv - historical data including Sales
+- test.csv - historical data excluding Sales
+- sample_submission.csv - a sample submission file in the correct format
+- store.csv - supplemental information about the stores
 # Attribute List
 - Id - an Id that represents a (Store, Date) duple within the test set
 - Store - a unique Id for each store
