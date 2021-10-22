@@ -68,13 +68,18 @@ The method used for the project was CRISP-DM, apply as the steps below:
 **H2**: Stores with closer competitors should sell less.
 
 **FALSE**: Stores with CLOSER COMPETITORS sell MORE.
-
 ![image](https://user-images.githubusercontent.com/88016259/138381733-bb96acbb-c481-43d6-9761-28fea97368a9.png)
 
 **H3**: Stores with long time competitors should sell more.
 
 **FALSE**: Stores with COMPETITORS LONG TIME sell LESS.
 ![image](https://user-images.githubusercontent.com/88016259/138382328-92396ed0-a9ce-4589-8d94-6c0ea36076cd.png)
+
+**H4**: Stores with promotions active for long time should sell more.
+
+**FALSE**: Stores with promotions active for long time sell less after a certain period of promotion.
+![image](https://user-images.githubusercontent.com/88016259/138382828-e06b8a84-def4-412c-9487-af7d450b321c.png)
+
 
 
 
