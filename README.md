@@ -165,7 +165,8 @@ In addition to overall sales prediction, it was also calculated the sales predic
 - Send the store number (one each time) and get the sales prediction for the next six weeks.
 - If the store number does not exist, it will get as an answer the message: "Store Not Available".
 
-![image](https://user-images.githubusercontent.com/85244180/135685816-8bb3bacf-3795-4893-966a-c2e75d8e0846.png)
+![image](https://user-images.githubusercontent.com/88016259/138387481-4b8b3ed8-3a0d-4fbe-9a4f-32e8e8ea180c.png)
+
 
 # Conclusion
 
