@@ -60,4 +60,6 @@ The method used for the project was CRISP-DM, apply as the steps below:
 **Step 11**. **Telegram Bot**: The goal of this step is to create a bot on the telegram app, that make possible to consult the forecast at any time.
 
 # Data Insigths
+**H1**: Stores with larger assortments should sell more.
 
+**FALSE**: Stores with a larger assortment sell LESS.
