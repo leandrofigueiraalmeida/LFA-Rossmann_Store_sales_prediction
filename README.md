@@ -95,7 +95,10 @@ The method used for the project was CRISP-DM, apply as the steps below:
 **FALSE**: Stores sell less over the years.
 ![image](https://user-images.githubusercontent.com/88016259/138383833-4ca81ed3-8c28-4f0f-ad91-361dc8118bed.png)
 
+**H9**: Stores should sell more in the second half of the year.
 
+**FALSE**: Stores sell less in the second half of the year.
+![image](https://user-images.githubusercontent.com/88016259/138384211-264c75e2-1531-4b85-96a5-5616bcb043b7.png)
 
 
 
