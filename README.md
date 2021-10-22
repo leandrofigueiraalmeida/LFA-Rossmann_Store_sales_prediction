@@ -85,6 +85,10 @@ The method used for the project was CRISP-DM, apply as the steps below:
 **FALSE**: Stores with more consecutive promotions sell LESS.
 ![image](https://user-images.githubusercontent.com/88016259/138383185-75bed694-386f-43b1-9be5-8d8540c00d6b.png)
 
+**H7**: Stores open during the Christmas holiday should sell more.
+
+**FALSE**: Stores open during the Christmas holiday sell less.
+![image](https://user-images.githubusercontent.com/88016259/138383538-a6d256a2-cfb5-4e76-b30a-0bb38e0a5fe3.png)
 
 
 
