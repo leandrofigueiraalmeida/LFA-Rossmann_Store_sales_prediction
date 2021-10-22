@@ -158,3 +158,29 @@ In addition to overall sales prediction, it was also calculated the sales predic
 
 # Telegram
 - To acess the predictions on Telegram, click in the below:
+
+[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>]( https://t.me/lfa_rossmann_bot)
+
+# How to get the prediction
+- Send the store number (one each time) and get the sales prediction for the next six weeks.
+- If the store number does not exist, it will get as an answer the message: "Store Not Available".
+
+![image](https://user-images.githubusercontent.com/85244180/135685816-8bb3bacf-3795-4893-966a-c2e75d8e0846.png)
+
+# Conclusion
+
+Considering the first CRISP-DS cycle, the final model presented a usefull performance, considering the MAPE (Mean Absolute Percentage Error) of 0.11. However, for some stores, higher MAPE values were observed, such as 0.37 and 0.52, but this is a point that could be improved in the next CRISP cycle.
+
+# Technologies
+- Jupyter notebook
+- Python
+
+# Deploy into production
+- Back end: Heroku
+- Front end web: Telegram
+- Database: Kaggle
+
+# Author
+Leandro Figueira de Almeida
+
+
