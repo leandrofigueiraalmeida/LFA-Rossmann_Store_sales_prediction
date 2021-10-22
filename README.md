@@ -68,6 +68,7 @@ The method used for the project was CRISP-DM, apply as the steps below:
 **H2**: Stores with closer competitors should sell less.
 
 **FALSE**: Stores with CLOSER COMPETITORS sell MORE.
+
 ![image](https://user-images.githubusercontent.com/88016259/138381465-5f390a6e-8b7c-466a-9c22-0104ee4b0a0c.png)
 
 
