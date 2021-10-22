@@ -115,4 +115,37 @@ The method used for the project was CRISP-DM, apply as the steps below:
 **TRUE**: Stores sell less during school holidays, except July and August.
 ![image](https://user-images.githubusercontent.com/88016259/138385046-fb09a01e-9d08-4b47-a383-af9862dcd6ff.png)
 
+# Tested Machine Learning Models 
 
+-  Average Model
+-  Linear Regression Model
+-  Linear Regression Regularized Model (Lasso)
+-  Random Forest Regressor
+-  XGBoost Regressor
+
+# Machine Learning Models Performance
+
+![image](https://user-images.githubusercontent.com/85244180/135642546-f625a607-a1c8-45bd-b4f5-b2432fff6915.png)
+
+
+# Machine Learnig Performance after Hyperparemeter Fine Tuning
+
+![image](https://user-images.githubusercontent.com/85244180/135654921-1fa910a1-a495-4036-bd7b-54d2569461d3.png)
+
+Although the Random Forest Regressor Model presented better performance, this model usually requires a large amount of space on the server in deploy step, generating a significant cost increase for the company. Therefore, it was choosen the XGBoost Regressor Model, which after the hyperparameter fine tuning presented similar performance and requires less space on the server, generating a lower cost for the company.
+
+# Model performance vs Business values
+
+In addition to overall sales prediction, it was also calculated the sales prediction for the worst and the best scenario.
+
+**Model with XGBoost Regression**
+
+![image](https://user-images.githubusercontent.com/85244180/135664880-e12bf17c-49ae-4eed-a285-32d51e0508d8.png)
+
+# How to access the prediction
+## Pre-requirement
+
+- Sign up Telegram and create an account
+
+# Telegram
+- To acess the predictions on Telegram, click in the below:
