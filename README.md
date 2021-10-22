@@ -80,6 +80,10 @@ The method used for the project was CRISP-DM, apply as the steps below:
 **FALSE**: Stores with promotions active for long time sell less after a certain period of promotion.
 ![image](https://user-images.githubusercontent.com/88016259/138382828-e06b8a84-def4-412c-9487-af7d450b321c.png)
 
+**H6**: Stores with more consecutive promotions should sell MORE.
+
+**FALSE**: Stores with more consecutive promotions sell LESS.
+![image](https://user-images.githubusercontent.com/88016259/138383185-75bed694-386f-43b1-9be5-8d8540c00d6b.png)
 
 
 
