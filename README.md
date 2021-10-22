@@ -124,10 +124,12 @@ The method used for the project was CRISP-DM, apply as the steps below:
 -  XGBoost Regressor
 
 # Machine Learning Models Performance
-- Single Performance - Compare Models
+- Single Performance - to Compare Models
+
 ![image](https://user-images.githubusercontent.com/88016259/138385504-8cf85570-3065-426e-a2e5-a8eaf465fa32.png)
 
-- Real Performance - Cross Validation - Compare Models
+
+- Real Performance - Cross Validation - to Compare Models
 ![image](https://user-images.githubusercontent.com/88016259/138385720-1d2f66f4-41d3-48c1-a86f-eeb7a38b1cf3.png)
 
 
