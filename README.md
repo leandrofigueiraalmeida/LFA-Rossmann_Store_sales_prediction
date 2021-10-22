@@ -103,7 +103,16 @@ The method used for the project was CRISP-DM, apply as the steps below:
 **H10**: Stores should sell more after the 10th of each month.
 
 **TRUE**: Stores sell more after the 10th of each month.
-![image](https://user-images.githubusercontent.com/88016259/138384519-bb5e64a7-3ffc-461f-98ac-14a373ff55dc.png)
+![image](https://user-images.githubusercontent.com/88016259/138384664-e67cfd5d-4e9e-44af-bd56-e671c5f820cb.png)
 
+**H11**: Stores should sell less on weekends.
+
+**TRUE**: Stores sell less on the weekend.
+![image](https://user-images.githubusercontent.com/88016259/138384844-eeb23dc1-08f3-4d4c-962e-38e0a548d6ad.png)
+
+**H12**: Stores should sell less during school holidays
+
+**TRUE**: Stores sell less during school holidays, except July and August.
+![image](https://user-images.githubusercontent.com/88016259/138385046-fb09a01e-9d08-4b47-a383-af9862dcd6ff.png)
 
 
