@@ -90,6 +90,12 @@ The method used for the project was CRISP-DM, apply as the steps below:
 **FALSE**: Stores open during the Christmas holiday sell less.
 ![image](https://user-images.githubusercontent.com/88016259/138383538-a6d256a2-cfb5-4e76-b30a-0bb38e0a5fe3.png)
 
+**H8**: Stores should sell more over the years.
+
+**FALSE**: Stores sell less over the years.
+![image](https://user-images.githubusercontent.com/88016259/138383833-4ca81ed3-8c28-4f0f-ad91-361dc8118bed.png)
+
+
 
 
 
