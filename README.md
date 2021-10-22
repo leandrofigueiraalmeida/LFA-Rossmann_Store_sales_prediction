@@ -100,7 +100,10 @@ The method used for the project was CRISP-DM, apply as the steps below:
 **FALSE**: Stores sell less in the second half of the year.
 ![image](https://user-images.githubusercontent.com/88016259/138384211-264c75e2-1531-4b85-96a5-5616bcb043b7.png)
 
+**H10**: Stores should sell more after the 10th of each month.
 
+**TRUE**: Stores sell more after the 10th of each month.
+![image](https://user-images.githubusercontent.com/88016259/138384519-bb5e64a7-3ffc-461f-98ac-14a373ff55dc.png)
 
 
 
