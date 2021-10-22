@@ -65,5 +65,7 @@ The method used for the project was CRISP-DM, apply as the steps below:
 **FALSE**: Stores with a larger assortment sell LESS.
 ![image](https://user-images.githubusercontent.com/88016259/138381065-868977a4-6d16-4db6-a479-896545c29635.png)
 
+**H2**: Stores with closer competitors should sell less.
+**FALSE**: Stores with CLOSER COMPETITORS sell MORE
 
 
