@@ -183,4 +183,6 @@ Considering the first CRISP-DS cycle, the final model presented a usefull perfor
 # Author
 Leandro Figueira de Almeida
 
-
+# Contacts
+  <a href="https://www.linkedin.com/in/leandro-figueira-de-almeida-88723459" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 	<a href = "mailto:leandro.figueira.almeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
