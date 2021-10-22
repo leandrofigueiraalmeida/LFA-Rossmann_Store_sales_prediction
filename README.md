@@ -129,7 +129,7 @@ The method used for the project was CRISP-DM, apply as the steps below:
 ![image](https://user-images.githubusercontent.com/88016259/138385504-8cf85570-3065-426e-a2e5-a8eaf465fa32.png)
 
 
-
+<br></br>
 
 - Real Performance - Cross Validation - to Compare Models
 
@@ -138,7 +138,8 @@ The method used for the project was CRISP-DM, apply as the steps below:
 
 # Machine Learnig Performance after Hyperparemeter Fine Tuning
 
-![image](https://user-images.githubusercontent.com/85244180/135654921-1fa910a1-a495-4036-bd7b-54d2569461d3.png)
+![image](https://user-images.githubusercontent.com/88016259/138386264-9b5f3794-ab54-48ca-88e4-e962de2fc0d9.png)
+
 
 Although the Random Forest Regressor Model presented better performance, this model usually requires a large amount of space on the server in deploy step, generating a significant cost increase for the company. Therefore, it was choosen the XGBoost Regressor Model, which after the hyperparameter fine tuning presented similar performance and requires less space on the server, generating a lower cost for the company.
 
